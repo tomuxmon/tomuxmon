@@ -8,4 +8,4 @@
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/tomas-sql/), [Twitter](https://twitter.com/tomuxmon/), or email <tomas.sql@proton.me> .
 - ⚡ Fun fact: I first learned to dive and then I learned to swim.
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomuxmon&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=solarized-dark" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomuxmon&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6" /></a>
